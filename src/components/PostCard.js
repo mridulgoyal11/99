@@ -1,3 +1,5 @@
+
+
 import { FiX } from "react-icons/fi";
 import "./PostCard.css";
 
