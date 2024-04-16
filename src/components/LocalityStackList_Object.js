@@ -1,3 +1,5 @@
+
+
 import React from "react";
 // import "./LocalityStackList_Object.css";
 import pic8 from '../pics/defaultLocality.png'
