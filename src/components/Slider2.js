@@ -9,6 +9,8 @@ function Slider2()
 
     return(
 
+        
+
         <div className="locality_stack">
             <LocalityStackListObject/>
             <LocalityStackListObject/>
