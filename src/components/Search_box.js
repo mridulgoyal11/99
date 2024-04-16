@@ -6,6 +6,8 @@ import axios from "axios";
 
 const serverUrl = "https://fswi-99acres-clone.herokuapp.com/";
 
+
+
 function Searchbox() {
       const [active, setActiveIndex] = useState(0);
       const [cities, setCities] = useState([]);
