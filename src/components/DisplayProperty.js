@@ -14,7 +14,9 @@ function DisplayProperty({ handlePopup, data, serverUrl }) {
                         src={serverUrl + data.propertyImage.replace("\\", "/")}
                         alt="..."/>
                          {/* </object> */}
-          
+
+
+                          
         </div>
         <div className="full-content">
           <h4 id="fc-title">{data.title}</h4>
