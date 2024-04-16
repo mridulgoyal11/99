@@ -4,10 +4,7 @@ import './App.css';
 import { useEffect, useState } from "react";
 import pic from './pics/family-home.jpeg'
 // import pic1 from './pics/ap.jpg'
-// import pic2 from './pics/ap1.jpg'
-// import pic3 from './pics/ap2.jpg'
-// import pic4 from './pics/ap3.jpg'
-// import pic5 from './pics/ap4.jpg'
+//iport pic5 from './pics/ap4.jpg'
 // import pic6 from './pics/ap5.jpg'
 // import pic7 from './pics/ap6.jpg'
 // import pic8 from './pics/defaultLocality.png'
