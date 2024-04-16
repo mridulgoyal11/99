@@ -11,6 +11,8 @@ const serverUrl = "https://fswi-99acres-clone.herokuapp.com/";
 
 function Slider1(){
 
+     
+
      const [cities, setCities] = useState([]);
   const [properties, setProperties] = useState([]);
   // const [navShow, setNavShow] = useState(false);
